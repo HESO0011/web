@@ -1,0 +1,14 @@
+.inner {
+    width: 600px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  .header {
+    background-color: #fbfbc5;
+  }
+  .content {
+    background-color: #eaeaea;
+  }
+  .footer {
+    background-color: #f5f5f5;
+  }
